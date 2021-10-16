@@ -1,0 +1,40 @@
+img{
+    width: 100%;
+    margin-right: 5px;
+   
+   
+}
+.elements{
+    display: flex;
+    padding: 15px 15px;
+
+}
+.col-3{
+    padding: 0 15px;
+    position: relative;
+}
+
+ .col-3 i{
+    position: absolute;
+    top:15px;
+    left: 15px;
+    font-size: 30px;
+    color: white;
+}
+.bi-heart-fill{
+    color: red !important;    
+}
+p{
+ font-size: 25px;
+  font-weight: bold;
+}
+span{
+    box-sizing: border-box;
+    background-color: red;
+    position: absolute;
+    bottom: 53px;
+    left: 15px;
+    font-size: 25px;
+    padding:0 5px;
+}
+
